@@ -1,0 +1,1 @@
+This is Kat's first Git project!
